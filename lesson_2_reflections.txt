@@ -1,0 +1,8 @@
+What happens when you initialize a repository? Why do you need to do it?
+Initialise creates a new repository you do this to create the .git files of
+meta data.
+
+How is the staging area different from the working directory and the
+repository? What value do you think it offers? the staging area identifies
+files the are in your working directory and visable to git. The staging area
+allows you to collect or group your changes in a logical lump ready to commit.
