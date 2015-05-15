@@ -10,3 +10,7 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 Talk and comparing this would be easier as it is the old way. 
 Using git and githup will only become easier when all the collaboraters are comfortable using it.   
 
+When would you want to make changes in a separate branch rather than directly in master? 
+What benefits does each approach have?
+When collaborating with other devs and you want to sanaity check/peer review each others work pripr to updating the shared master
+takes longer but is better
